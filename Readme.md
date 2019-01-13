@@ -11,7 +11,7 @@ I study to subscribe the Topic Data from AWS IoT with MQTT.
 # Reference
 https://qiita.com/areaz_/items/6fc869cd2bf1ea1549c4
 
-#Change Point of mqtt_subscribe.py
+# Change Point of mqtt_subscribe.py
 L21: a part of AWS IoT Endpoint URL
 L22: a part of Certification Name
 L24: TOPIC of AWS IoT
